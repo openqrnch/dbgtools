@@ -1,0 +1,7 @@
+.*.swp
+.efiles
+.fossil-settings
+.fslckout
+_FOSSIL_
+Cargo.lock
+target
