@@ -1,3 +1,5 @@
+pub use dbgtools_hexdump as hexdump;
+
 #[cfg(windows)]
 pub use dbgtools_win as win;
 
